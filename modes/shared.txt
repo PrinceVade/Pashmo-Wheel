@@ -5,7 +5,7 @@ In a DM to the bot, run the !item <trait> command in order to get a compatible b
 
 Some traits have "Shared" modifiers, indicating that gameplay is different when playing in "Shared" mode.
 If the trait has a "complete" condition (and no "Shared" overwrite) only 1 person is able to complete it successfully.
-Whoever does: may receive a !bonus. Everyone else must !punish for the next round.
+Whoever does: may receive a !bonus.
 
 If the team guesses the ghost correctly - congratulations! Everyone must vote for an MVP to !bonus.
 In the event of a tie, another election is held for ONLY the tied participants.

@@ -1,5 +1,7 @@
 This player can ONLY use firelights and igniters for lights. NO FLASHLIGHTS!
 
+Shared Modifier: None
+
 Conflict Items:
 Firelight
 Igniter

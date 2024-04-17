@@ -4,5 +4,5 @@ With the rolled trait, everyone must be randomly assigned or the team must delib
 The size of the team is the upper limit of the list, throw away any outside that.
 (e.g. 3 player team only uses the first 3 in the list. CANNOT choose #1, #2, and #4.)
 
-Identifying the ghost is only the start. ALL secondary objectives must be completed.
+Identifying the ghost is only the start. ALL objectives must be completed.
 The bonus or punishment applies to the entire team. Work together!
